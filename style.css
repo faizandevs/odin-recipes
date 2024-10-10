@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*{
+    background-color: rgb(253, 253, 253);
+}
+
+.main{
+background-color: black;
+color: beige;
+text-align: center;
+font-size: 150px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.links{
+   
+    padding: 15px;
+
+}
+a{
+    width: 100%;
+     font-style: italic;
+     font-weight: bold;
+    font-size: 87px;
+    color:coral
+  
+}
+img{
+    width: 100%;
+}
